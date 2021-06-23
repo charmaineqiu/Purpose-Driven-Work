@@ -1,0 +1,14 @@
+:root {
+  --jacksons-purple: #1b18a1;
+  --scarlet: #f92d08;
+
+  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-s: 17px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 144px;
+
+  --font-family-gt_pressura-bold: "GT Pressura-Bold", Helvetica;
+  --font-family-gt_pressura-regular: "GT Pressura-Regular", Helvetica;
+  --font-family-regis-semibold: "Regis-SemiBold", Helvetica;
+}

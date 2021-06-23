@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Regis-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/60d17da507f6c272e04c5d17/fonts/regis-semi-bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "GT Pressura-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c50238de900f8000dc7d2e1/GT-Pressura-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GT Pressura-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c50238de900f8000dc7d2e1/GT-Pressura-Regular.otf") format("opentype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.screen * {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+body {
+background-image: linear-gradient(to right, blue , purple, blue);
+
+}
